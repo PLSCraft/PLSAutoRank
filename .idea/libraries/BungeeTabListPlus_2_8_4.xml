@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="BungeeTabListPlus-2.8.4">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Deps/BungeeTabListPlus-2.8.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

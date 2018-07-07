@@ -1,0 +1,18 @@
+mysql:
+  username: USERNAME
+  password: PASSWORD
+  database: DATABASE
+  host: HOST:PORT
+
+roles:
+  -
+  roleName: member
+  requireRole: default
+  timeToRole: 5000
+  completionText: "Gratz! You're a member!"
+  -
+  roleNAme: member+
+  requireRole: member
+  timeToRole: 100000
+  completionText: "Gratz! You're a member+!"
+

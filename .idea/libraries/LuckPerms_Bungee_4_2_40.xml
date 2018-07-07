@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="LuckPerms-Bungee-4.2.40">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Deps/LuckPerms-Bungee-4.2.40.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

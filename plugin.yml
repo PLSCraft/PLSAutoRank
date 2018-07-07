@@ -1,0 +1,5 @@
+name: PLSAutoRank
+main: today.pls.autorank.AutoRankPlugin
+version: 1.0
+author: RaidAndFade
+softDepends: ['BungeeTabListPlus','LuckPerms']
